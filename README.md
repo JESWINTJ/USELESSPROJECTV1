@@ -170,8 +170,24 @@ Add screenshot 3 here with proper name) here a brother is present who
 <img width="1863" height="1016" alt="image" src="https://github.com/user-attachments/assets/22987a81-a06b-4f01-99dd-86e25f042739" />
 
 Diagrams
-![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
+![Workflow](Add your workflow/architecture diagram here)
+flowchart TD
+    A[User Input] --> B{Select Feature}
+    B -->|Family Chat| C[React UI → Gemini API]
+    B -->|Tile Game| D[React UI → Local Game Logic]
+    B -->|Music Room| E[React UI → Web Speech API]
+    F --> G[Google Gemini API]
+ Add caption explaining your workflow
+Explanation:
+User Input: Central control from the user.
 
+Select Feature: User chooses from multiple options (like a useless project switchboard).
+
+Family Chat: AI characters (like Daddy, Brother, etc.) talk via Gemini API using React frontend.
+
+Tile Game: A basic game logic built into the frontend, no AI needed.
+
+Music Room: Lets users or AI play sounds via Web Speech API or Audio API.
 
 Project Demo
 Video
