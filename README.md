@@ -178,7 +178,7 @@ Video
 [https://drive.google.com/drive/folders/1WlzMSYAOcBCUPhx-Hyk6V4sSFN5ZeMM0] Explain what the video demonstrates
 
 Additional Demos-deploy link
-v0-singing-in-reverse-order.vercel.app
+https://v0-singing-in-reverse-order.vercel.app/
 
 Team Contributions
 [JESWIN T.J.]: [full contributions in frontend,backend,api call,etc]
