@@ -1,3 +1,4 @@
+<img width="3188" height="1202" alt="image" src="https://github.com/user-attachments/assets/ebf38e05-029d-43b4-9cf1-17e2a94bd04a" />
 [AI Family House] 🎯
 Basic Details:A **completely useless but entertaining** web application that simulates a digital family having conversations and playing games together. Think of it as a "digital dollhouse" where AI family members chat with each other in real-time! and a brother who can sing song from bottom to top in different voice
 Team Name: [JESWIN T.J.'s Team]
