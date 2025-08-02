@@ -161,13 +161,12 @@ For Software:
 
 Screenshots (Add at least 3)
 ![Screenshot1](<img width="1913" height="1011" alt="image" src="https://github.com/user-attachments/assets/4e4bc238-63ae-47ca-8c07-69d9226f900f" />
-) Add caption explaining what this shows
+) Here,ai powered characters supported by gemini api makes conversation.these characters have specific features etc..
 
 ![Screenshot2](<img width="1371" height="741" alt="image" src="https://github.com/user-attachments/assets/c7a20249-e74f-40bb-91e7-09e15c464e50" />
-Add screenshot 2 here with proper name) Add caption explaining what this shows
-
+Add screenshot 2 here with proper name) Here,we can see a tile counter with we can count the tiles in a room and submit answers and check accuracy 
 ![Screenshot3](<img width="1809" height="1009" alt="image" src="https://github.com/user-attachments/assets/3c1ee18d-b34b-4f37-a4e6-573213b81311" />
-Add screenshot 3 here with proper name) Add caption explaining what this shows
+Add screenshot 3 here with proper name) here a brother is present who 
 <img width="1863" height="1016" alt="image" src="https://github.com/user-attachments/assets/22987a81-a06b-4f01-99dd-86e25f042739" />
 
 Diagrams
