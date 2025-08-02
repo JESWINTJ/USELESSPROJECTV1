@@ -142,52 +142,44 @@ For Software:
 
 Installation
 # Clone the repository
-git clone https://github.com/jeswins-projects-dec857c2/v0-singing-in-reverse-order.git
-cd v0-singing-in-reverse-order
+git clone https://github.com/JESWINTJ/USELESSPROJECTV1.git
+cd USELESSPROJECTV1
+
 
 # Install dependencies
 npm install
 
 
 Run
-npm run dev
+npm run build
+npm start
 
 
 Project Documentation
 For Software:
 
 Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name) Add caption explaining what this shows
+![Screenshot1](<img width="1913" height="1011" alt="image" src="https://github.com/user-attachments/assets/4e4bc238-63ae-47ca-8c07-69d9226f900f" />
+) Add caption explaining what this shows
 
-![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
+![Screenshot2](<img width="1371" height="741" alt="image" src="https://github.com/user-attachments/assets/c7a20249-e74f-40bb-91e7-09e15c464e50" />
+Add screenshot 2 here with proper name) Add caption explaining what this shows
 
-![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
+![Screenshot3](<img width="1809" height="1009" alt="image" src="https://github.com/user-attachments/assets/3c1ee18d-b34b-4f37-a4e6-573213b81311" />
+Add screenshot 3 here with proper name) Add caption explaining what this shows
+<img width="1863" height="1016" alt="image" src="https://github.com/user-attachments/assets/22987a81-a06b-4f01-99dd-86e25f042739" />
 
 Diagrams
 ![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
 
-For Hardware:
-
-Schematic & Circuit
-![Circuit](Add your circuit diagram here) Add caption explaining connections
-
-![Schematic](Add your schematic diagram here) Add caption explaining the schematic
-
-Build Photos
-![Components](Add photo of your components here) List out all components shown
-
-![Build](Add photos of build process here) Explain the build steps
-
-![Final](Add photo of final product here) Explain the final build
 
 Project Demo
 Video
-[Add your demo video link here] Explain what the video demonstrates
+[https://drive.google.com/drive/folders/1WlzMSYAOcBCUPhx-Hyk6V4sSFN5ZeMM0] Explain what the video demonstrates
 
-Additional Demos
-[Add any extra demo materials/links]
+Additional Demos-deploy link
+v0-singing-in-reverse-order.vercel.app
 
 Team Contributions
-[Name 1]: [Specific contributions]
-[Name 2]: [Specific contributions]
-[Name 3]: [Specific contributions]
+[JESWIN T.J.]: [full contributions in frontend,backend,api call,etc]
+
